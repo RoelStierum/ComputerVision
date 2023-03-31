@@ -1,0 +1,26 @@
+<annotation>
+	<folder>motorbike</folder>
+	<filename>4AVD5635PAYN.jpg</filename>
+	<path>C:\Users\roel2\PycharmProjects\ObjectDetection\models\research\object_detection\images\train\motorbike\4AVD5635PAYN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>592</width>
+		<height>592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>112</ymin>
+			<xmax>589</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

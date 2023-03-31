@@ -1,0 +1,26 @@
+<annotation>
+	<folder>motorbike</folder>
+	<filename>0RF4RI153SO0.jpg</filename>
+	<path>C:\Users\roel2\PycharmProjects\ObjectDetection\models\research\object_detection\images\train\motorbike\0RF4RI153SO0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>28</ymin>
+			<xmax>556</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>motorbike</folder>
+	<filename>0V9HLFZGQPID.jpg</filename>
+	<path>C:\Users\roel2\PycharmProjects\ObjectDetection\models\research\object_detection\images\train\motorbike\0V9HLFZGQPID.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>274</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>55</ymin>
+			<xmax>237</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

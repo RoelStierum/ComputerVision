@@ -110,5 +110,6 @@ def main(unused_argv):
           checkpoint_every_n=FLAGS.checkpoint_every_n,
           record_summaries=FLAGS.record_summaries)
 
+
 if __name__ == '__main__':
   tf.compat.v1.app.run()
