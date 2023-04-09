@@ -1,0 +1,26 @@
+<annotation>
+	<folder>val</folder>
+	<filename>OS5S9HX1F9WO.jpg</filename>
+	<path>C:\Users\roel2\PycharmProjects\ObjectDetection\models\research\object_detection\images\val\OS5S9HX1F9WO.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>211</width>
+		<height>133</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>25</ymin>
+			<xmax>204</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

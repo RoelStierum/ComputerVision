@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>IMG_4746.JPG</filename>
+	<path>C:\Users\roel2\PycharmProjects\ObjectDetection\models\research\object_detection\images\img\IMG_4746.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>745</xmin>
+			<ymin>1823</ymin>
+			<xmax>2311</xmax>
+			<ymax>2994</ymax>
+		</bndbox>
+	</object>
+</annotation>
